@@ -1,0 +1,27 @@
+{
+  "name": "emint-contracts",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.4.0"
+  },
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morion4000/emint-contracts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morion4000/emint-contracts/issues"
+  },
+  "homepage": "https://github.com/morion4000/emint-contracts#readme",
+  "description": ""
+}
